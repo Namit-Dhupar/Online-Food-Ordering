@@ -1,4 +1,4 @@
-# Online-Food-Ordering 
+# Online-Food-Ordering(E-Commerce)
 Technologies Used:
 1.) PHP 7.0
 2.) MySQL
